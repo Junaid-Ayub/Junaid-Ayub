@@ -31,9 +31,11 @@ Welcome to my GitHub! I'm a passionate developer exploring the world of coding, 
 ---
 
 ### 📊 GitHub Stats
-![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Junaid-Ayub&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Ayub&layout=compact&theme=radical)
+
+![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Junaid-Ayub&show_icons=true&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Ayub&theme=radical)
+
 
 ---
 
