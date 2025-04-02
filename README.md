@@ -36,7 +36,6 @@ Welcome to my GitHub! I'm a passionate developer exploring the world of coding, 
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Ayub&theme=radical)
 
-
 ---
 
 ### 🚀 Featured Projects
